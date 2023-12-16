@@ -99,7 +99,7 @@ const App = () => {
               name='password'
               type='password'
               minlength='8'
-              className={`input ${formError.password ? 'input-invalid' : 'input-valid'}`}
+              className={`input ${formError.password? 'input-invalid' : 'input-valid'}`}
               placeholder='Enter Password' />
 
             <p className='error-msg'>{formError.password}</p>
