@@ -50,7 +50,7 @@
   background-color: transparent;
   border-radius: 8px;
   border: none;
-  outline: 1.5px solid black !important;
+  outline: 2px solid black !important;
 }
 
 
@@ -61,11 +61,11 @@
 }
 
 .input:user-invalid {
-  outline: 1.5px solid red !important;
+  outline: 2px solid red !important;
 }
 
 .input:user-valid {
-  outline: 1.5px solid green !important;
+  outline: 2px solid green !important;
 }
 
 .submit-btn {
