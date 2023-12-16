@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SignUp-Form-ReactJS/static/css/main.00d4216b.css",
+    "main.js": "/SignUp-Form-ReactJS/static/js/main.8343206e.js",
+    "index.html": "/SignUp-Form-ReactJS/index.html",
+    "main.00d4216b.css.map": "/SignUp-Form-ReactJS/static/css/main.00d4216b.css.map",
+    "main.8343206e.js.map": "/SignUp-Form-ReactJS/static/js/main.8343206e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00d4216b.css",
+    "static/js/main.8343206e.js"
+  ]
+}
